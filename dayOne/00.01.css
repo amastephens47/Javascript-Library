@@ -1,0 +1,33 @@
+body{
+    background-color: gray;
+}
+
+h1{
+    text-align: center;
+    color: lightgreen;
+}
+
+h3{
+    color: blue;
+}
+
+p{
+    color: red;
+}
+
+.wrapper{
+    margin: 5px;
+    border-style: solid;
+    border-color: black;
+    border-width: thick;
+    border-radius: 25px;
+}
+
+.border1 {
+    background-color: lightgray;
+    border-style: solid;
+    border-color: white;
+    border-width: thin;
+    text-align: center;
+    border-radius: 25px;
+}
