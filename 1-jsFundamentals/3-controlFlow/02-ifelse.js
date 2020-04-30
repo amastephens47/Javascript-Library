@@ -40,3 +40,12 @@ if (age >= 25) {
           } else {
     console.log("Sorry, you're too young to do anything");
   }
+
+  let FB = 6;
+  if (FB % 5) {
+        console.log("Buzz");
+          }  else if (FB % 3) {
+    console.log("Fizz");
+      } else if (FB % 3 && FB % 5) {
+    console.log("Fizzbuzz");
+      }
